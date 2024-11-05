@@ -1,6 +1,8 @@
 # dlnm
 Distributed lag linear and non-linear models (DLNM) for time series data Use crossbasis With (In) R Software
 
+https://www.youtube.com/watch?v=w9RrHaOtXLM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
